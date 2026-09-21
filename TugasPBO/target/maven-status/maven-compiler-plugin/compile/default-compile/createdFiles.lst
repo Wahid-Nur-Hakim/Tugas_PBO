@@ -1,0 +1,7 @@
+com\mycompany\tugaspbo\TugasPBO.class
+model\RumahQuran.class
+view\Menu.class
+model\KelasMengaji.class
+model\Pengajar.class
+model\Santri.class
+controller\CrudUmmi.class
