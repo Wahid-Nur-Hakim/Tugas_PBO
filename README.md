@@ -1,5 +1,9 @@
 # Tugas_PBO
 
+## Nama  : Wahid Nur Hakim
+## NIM   : 2509116016
+## Kelas : Sistem Informasi A'25 
+
 ## Penjelasan studi kasus yang dipilih
 
 Studi kasus yang digunakan adalah aplikasi pengelolaan data Rumah Qur'an Al-Hafizh. Aplikasi ini digunakan untuk mengelola data santri, kelas mengaji, dan pengajar.
